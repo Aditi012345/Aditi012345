@@ -2,8 +2,6 @@
   <h1>Hi 👋, I'm Aditi Deshpande</h1>
   <p><h3>A passionate developer blending full-stack engineering with AI</h3></p>
 
-  <!-- Visitor Counter and Social Badges -->
-  <img src="https://glitch.me" alt="Visitor Count" />
   
   <p align="center">
     <a href="https://linkedin.com" target="_blank">
@@ -64,6 +62,5 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://vercel.app" alt="Aditi's GitHub Stats" />
   <img height="180em" src="https://vercel.app" alt="Top Languages" />
 </p>
