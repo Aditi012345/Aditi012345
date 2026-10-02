@@ -5,15 +5,13 @@
   
  <p align="center">
   <a href="https://www.linkedin.com/in/aditi-deshpande-992874259" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="35" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/aditideshpande31" target="_blank">
-    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="HackerRank" width="35" height="35"/>
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:aditideshpande3004@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="35" height="35"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -64,5 +62,14 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://vercel.app" alt="Top Languages" />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Aditi012345&show_icons=true&theme=default&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi012345&layout=compact&theme=default"
+    alt="Top Languages"
+  />
 </p>
