@@ -34,10 +34,10 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/flask/FFFFFF" alt="Flask" width="45" height="45"/>&nbsp;  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="bash" width="45" height="45"/>&nbsp;
 </p>
 
 #### 📊 Data Science & Machine Learning
@@ -64,12 +64,12 @@
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Aditi012345&show_icons=true&theme=default&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Aditi012345&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi012345&layout=compact&theme=default"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi012345&layout=compact&theme=tokyonight"
     alt="Top Languages"
   />
 </p>
