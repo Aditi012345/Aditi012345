@@ -3,24 +3,26 @@
   <p><h3>A passionate developer blending full-stack engineering with AI</h3></p>
 
   
-  <p align="center">
-    <a href="https://linkedin.com" target="_blank">
-      <img src="https://shields.io" alt="LinkedIn" />
-    </a>
-    <a href="https://www.hackerrank.com/profile/aditideshpande31" target="_blank">
-      <img src="https://shields.io" alt="HackerRank" />
-    </a>
-    <a href="mailto:aditideshpande3004@gmail.com">
-      <img src="https://shields.io" alt="Email" />
-    </a>
-  </p>
+ <p align="center">
+  <a href="https://www.linkedin.com/in/aditi-deshpande-992874259" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="35" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/aditideshpande31" target="_blank">
+    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="HackerRank" width="35" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:aditideshpande3004@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="35" height="35"/>
+  </a>
+</p>
+
 </div>
 
 ---
 
 ### 💫 About Me
 
-- 🔭 **Current Focus:** Engineering [PacketPulse](https://github.com/Aditi012345/PacketPulse) — a real-time network packet analyzer.
 - 🌱 **Learning:** Diving deep into **Advanced Machine Learning** frameworks and algorithms.
 - 👯 **Collaborations:** Open to **AI/ML-powered security** and advanced data analytics projects.
 - 🤝 **Seeking Help With:** Scaling real-time packet streaming mechanics & live dashboard data visualization.
